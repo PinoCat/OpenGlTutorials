@@ -1,5 +1,8 @@
 # OpenGlTutorials
 
+https://habr.com/ru/articles/310790
+https://learnopengl.com
+
 # Установка VcPkg
 - Скачать VcPkg (git clone https://github.com/microsoft/vcpkg.git)
 - Запустить bootstrap-vcpkg (cd vcpkg; .\bootstrap-vcpkg.bat)
